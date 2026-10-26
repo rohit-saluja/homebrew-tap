@@ -1,7 +1,7 @@
 # Written by scripts/release/release.sh publish (D169); edit the template, not the tap.
 cask "wombit" do
-  version "1.0"
-  sha256 "e96ac52e7b1203320c692a12df7ea9f5e724fde9f207e46b87701c405550ce63"
+  version "1.1"
+  sha256 "edfad46394a12e82420b449f84c842777df78fd86e2826d633110c3ab4663a5d"
 
   url "https://github.com/rohit-saluja/wombit-releases/releases/download/v#{version}/Wombit-#{version}.dmg"
   name "Wombit"
