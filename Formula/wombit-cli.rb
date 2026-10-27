@@ -2,9 +2,9 @@
 class WombitCli < Formula
   desc "Explains what is using a Mac's disk; cleans up only when asked (open source)"
   homepage "https://wombit.app/docs/command-line-tool"
-  url "https://github.com/rohit-saluja/wombit-releases/releases/download/v1.1/wombit-cli-0.4.1.zip"
+  url "https://github.com/rohit-saluja/wombit-releases/releases/download/v1.2/wombit-cli-0.4.1.zip"
   version "0.4.1"
-  sha256 "feb35d27993103d3053188818092fec44401dfddf91487d7cc2f03d31a43f5c7"
+  sha256 "41412aa87a516583256631f508a41086c25160f295c2dc1465def5ba9faa10e5"
   license "Apache-2.0"
 
   depends_on macos: :tahoe
